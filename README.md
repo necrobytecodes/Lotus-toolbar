@@ -34,7 +34,8 @@ Contributions and feedback are welcome! Feel free to open issues or submit pull 
 
 ## Contact
 
-For questions or support, open an issue or contact necrobytecodes.
-youwillneverhackme123@gmail.com
-sebastianrodli12@hotmail.com
-sebastianrodli12@gmail.com
+For questions or support, open an issue or contact:
+
+- necrobytecodes: youwillneverhackme123@gmail.com  
+- Sebastian Rødli: sebastianrodli12@hotmail.com  
+- Sebastian Rødli (alternate): sebastianrodli12@gmail.com
